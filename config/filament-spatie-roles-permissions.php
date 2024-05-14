@@ -74,8 +74,7 @@ return [
     'generator' => [
 
         'guard_names' => [
-            'web',
-            'api',
+            'web'
         ],
 
         'permission_affixes' => [
